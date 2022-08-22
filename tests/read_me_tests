@@ -1,0 +1,10 @@
+
+this package contains files :
+
+1. login_tests.py - tests will be activated on 'login' page .
+2. product_tests.py - tests will be activated on 'product' page (page after login) .
+3. your_cart_tests.py - tests will be activated on 'your cart' page (one page after 'product' page ) .
+4. your_info_tests.py - tests will be activated on 'your info' page (one page after 'your cart' page) .
+5. overview_tests.py - tests will be activated on 'overview_page' page (one page after 'your info' page) .
+
+### all files in this package contain tests for specific webpage .

@@ -1,0 +1,7 @@
+add_button_type, add_button_locator, item
+xpath, //*[@class="inventory_item"][{}]//button, 1
+xpath, //*[@class="inventory_item"][{}]//button, 2
+xpath, //*[@class="inventory_item"][{}]//button, 3
+xpath, //*[@class="inventory_item"][{}]//button, 4
+xpath, //*[@class="inventory_item"][{}]//button, 5
+xpath, //*[@class="inventory_item"][{}]//button, 6

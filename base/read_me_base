@@ -1,0 +1,11 @@
+
+This package contains :
+1. base_actions.py - module contains actions will be activated in all tests & pages of the website .
+2. logger.py - module created to define format of the logger .
+3. navigation.py - module created to navigate through different webpages .
+4. read_data.py - module created to read values from csv file when using ddt .
+5. web_driver_factory.py - WebDriver Factory class implementation It creates a webdriver instance
+                           based on browser configurations .
+
+### all files in this package contains basic functionality will be used in many pages & test cases .
+
